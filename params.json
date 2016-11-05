@@ -1,6 +1,6 @@
 {
   "name": "Presentation-slides-kl2016",
   "tagline": "",
-  "body": "![](../images/edm.jpg)",
+  "body": "<embed src=\"http://www.flp-yomiko.com/edm/commscope/pdf/CommScope_Presentation_Hanoi.pdf\" width=\"500\" height=\"375\" type='application/pdf'>\r\n<iframe src=\"http://docs.google.com/gview?url=http://www.flp-yomiko.com/edm/commscope/pdf/CommScope_Presentation_Hanoi.pdf&embedded=true\" style=\"width:718px; height:700px;\" frameborder=\"0\"></iframe>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
